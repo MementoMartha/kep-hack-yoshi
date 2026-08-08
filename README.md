@@ -1,6 +1,6 @@
 Kanto Expansion Pak: April Fools' 2024 Edition
 ===================
-Hello! If you're reading this, then you've come across a special, secret version of my [Kanto Expansion Pak] (https://github.com/MementoMartha/kep-hack) ROM Hack, possibly from its associated [YouTube video.] (https://www.youtube.com/watch?v=Eh2LfqioKm4) If you haven't seen it yet, it'll provide you with a method to getting this edition's secret 252nd Pokemon...
+Hello! If you're reading this, then you've come across a special, secret version of my [Kanto Expansion Pak](https://github.com/MementoMartha/kep-hack) ROM Hack, possibly from its associated [YouTube video.](https://www.youtube.com/watch?v=Eh2LfqioKm4) If you haven't seen it yet, it'll provide you with a method to getting this edition's secret 252nd Pokemon...
 
 This version adds one new Pokemon and one new move! You probably know who it is by now, you've read the title of the repo!
 
